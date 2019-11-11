@@ -1,5 +1,11 @@
 
 
+## 下载
+
+[百度云盘](https://pan.baidu.com/s/1D2z9xZw9aZEUp4Amzom0LQ)
+
+不保证云盘中的README.md和ModList.md为最新，请以[GitHub](https://github.com/IshmaelHeathcliff/XYZMinecraft)处的文件为标准
+
 ## 基础安装
 
 1.  进入游戏文件夹，打开HMCL.exe
