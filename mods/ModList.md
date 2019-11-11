@@ -36,10 +36,16 @@
 
 ## 科技
 
-2.  IC2 [[mcbbs](https://www.mcbbs.net/thread-515771-1-1.html)]
-3.  BuildCraft[[官网](https://www.mod-buildcraft.com/)]
+1.  IC2 [[mcbbs](https://www.mcbbs.net/thread-515771-1-1.html)]
+    [[酒石酸](https://space.bilibili.com/4435845/video?keyword=IndustrialCraft-2-Exp)]
+    [[gonglinyuan核电](https://space.bilibili.com/6364749/video?keyword=%E5%B7%A5%E4%B8%9A2)]
+2.  BuildCraft[[官网](https://www.mod-buildcraft.com/)]
+    [[SF](https://space.bilibili.com/875889/video?keyword=buildcraft)]
 3.  RailCraft [[mcbbs](https://www.mcbbs.net/thread-603270-1-1.html)]
-4.  匠魂 [[mcbbs](https://www.mcbbs.net/thread-661201-1-1.html)] [[酒石酸part1](https://www.bilibili.com/video/av8317656/?spm_id_from=333.788.videocard.4)] [[酒石酸part2](https://www.bilibili.com/video/av8323626/?spm_id_from=333.788.videocard.0)] [[酒石酸part3](https://www.bilibili.com/video/av8355909/?spm_id_from=333.788.videocard.1)] [[酒石酸part4](https://www.bilibili.com/video/av8364281/?spm_id_from=333.788.videocard.2)] [[酒石酸part5](https://www.bilibili.com/video/av8378728/?spm_id_from=333.788.videocard.3)]
+4.  匠魂 [[mcbbs](https://www.mcbbs.net/thread-661201-1-1.html)] 
+    [[酒石酸](https://space.bilibili.com/4435845/video?keyword=Tinker%27s%20Construct)]
+5.  更多实用
+    [[酒石酸](https://space.bilibili.com/4435845/video?keyword=Extra)]
 
 ## 农林
 
@@ -54,8 +60,8 @@
 
 ### 匠魂相关
 
-1.  Tinkers' Addons [[酒石酸]( https://www.bilibili.com/video/av37635032 )]
-2.  Construct's Armory [[酒石酸]( https://www.bilibili.com/video/av37293887 )]
+1.  Tinkers' Addons [[酒石酸](https://www.bilibili.com/video/av37635032)]
+2.  Construct's Armory [[酒石酸](https://www.bilibili.com/video/av37293887)]
 
 
 

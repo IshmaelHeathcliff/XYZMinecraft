@@ -1,5 +1,15 @@
 
 
+## 最近5次更新
+
+### 2019/11/11
+
+添加mod
+
+1.  just-enough-harvestcraft
+2.  SmoothFont
+3.  conarm
+
 ## 下载
 
 [百度云盘](https://pan.baidu.com/s/1D2z9xZw9aZEUp4Amzom0LQ)
@@ -61,3 +71,5 @@
 ### 推荐mod设置
 
 施工中
+
+## 历史更新日志
