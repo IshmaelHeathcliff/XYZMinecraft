@@ -3,5 +3,6 @@
 !.gitignore
 !mods/
 !assets/
+!assets/**
 mods/**
 !mods/ModList.md
