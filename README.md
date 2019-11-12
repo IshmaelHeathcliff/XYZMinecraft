@@ -2,6 +2,17 @@
 
 ## 最近5次更新
 
+### 2019/11/12
+
+添加mod
+
+1.  AppleCore
+2.  AppleSkin
+3.  CookingForBlockheads
+4.  jeibees
+5.  pamscookables
+6.  SpiceofLife
+
 ### 2019/11/11
 
 添加mod
