@@ -8,35 +8,6 @@
 
 mod请重新安装下载链接中的2Gmods目录中的mod
 
-### 2019/11/15
-
-暂时停服
-
-### 2019/11/12
-
-添加mod
-
-1.  AppleCore
-2.  AppleSkin
-3.  CookingForBlockheads
-4.  jeibees
-5.  pamscookables
-6.  SpiceofLife
-
-### 2019/11/11
-
-添加mod
-
-1.  just-enough-harvestcraft
-2.  SmoothFont
-3.  conarm
-4.  Tinkers' Addons
-5.  MmmMmmMmmMmm
-
-更新mod
-
-1.  TConstruct
-
 ## 下载
 
 [百度云盘](https://pan.baidu.com/s/1D2z9xZw9aZEUp4Amzom0LQ)
@@ -92,3 +63,32 @@ mod请重新安装下载链接中的2Gmods目录中的mod
 施工中
 
 ## 历史更新日志
+
+### 2019/11/15
+
+暂时停服
+
+### 2019/11/12
+
+添加mod
+
+1.  AppleCore
+2.  AppleSkin
+3.  CookingForBlockheads
+4.  jeibees
+5.  pamscookables
+6.  SpiceofLife
+
+### 2019/11/11
+
+添加mod
+
+1.  just-enough-harvestcraft
+2.  SmoothFont
+3.  conarm
+4.  Tinkers' Addons
+5.  MmmMmmMmmMmm
+
+更新mod
+
+1.  TConstruct
