@@ -2,6 +2,20 @@
 
 ## 最近5次更新
 
+### 2019/12/03
+
+添加mod
+
+1.  tinker_io
+2.  StorageDrawer
+3.  Cucumber
+4.  BarrelsDrumsStorageAndMore
+
+删除mod
+
+1.  Texfix
+2.  foamfix
+
 ### 2019/11/28
 
 重新开服
