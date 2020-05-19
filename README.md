@@ -2,21 +2,13 @@
 
 ## 最近5次更新
 
-### 2020/3/4
+#### 2020/5/19
 
-增加miniHUD
+更换新服务器
 
-### 2020/2/24
+增加机械动力mod
 
-mod不再使用forge，改为fabric，并增加mod
-
-### 2019/12/18
-
-使用1.14.4版本
-
-只需要安装Mods1.14.4中的mod（不必要）
-
-暂不提供材质包，提供一个光影包
+改用forge
 
 ## 下载
 
@@ -33,7 +25,7 @@ mod不再使用forge，改为fabric，并增加mod
     ![image-20191103160823917](assets/image-20191103160823917.png)
 
 3.  游戏列表 => 安装新游戏版本 => 1.14.4=> 安装
-4.  游戏 => 1.14.4 => 自动安装 => 在线安装fabric
+4.  游戏 => 1.14.4 => 自动安装 => 在线安装forge 28.2.0
 5.  游戏 => 1.14.4 => 模组管理 => 添加模组：添加Mods1.14.4目录中的mod
 6.  点击上方的主页按钮 => 右下角启动游戏![image-20191103162101556](assets/image-20191103162101556.png)
 
@@ -56,70 +48,4 @@ mod不再使用forge，改为fabric，并增加mod
 ## 服务器
 
 1.  多人游戏 => 添加服务器
-2.  名称随意，服务器地址`39.107.64.72:25565` => 完成
-
-## 皮肤
-
-1.  将CustomSkinLoader文件夹放入.minecraft目录
-2.  登录https://littleskin.cn/
-3.  注册、验证等
-
-## Mod
-
-[Mod列表](mods/ModList.md)（未更新）
-
-### 推荐mod设置
-
-施工中
-
-## 历史更新日志
-
-### 2019/12/03
-
-添加mod
-
-1.  tinker_io
-2.  StorageDrawer
-3.  Cucumber
-4.  LargeFluidTank
-5.  Chameleon
-
-删除mod
-
-1.  Texfix
-2.  foamfix
-
-### 2019/11/28
-
-重新开服
-
-mod请重新安装下载链接中的2Gmods目录中的mod
-
-### 2019/11/15
-
-暂时停服
-
-### 2019/11/12
-
-添加mod
-
-1.  AppleCore
-2.  AppleSkin
-3.  CookingForBlockheads
-4.  jeibees
-5.  pamscookables
-6.  SpiceofLife
-
-### 2019/11/11
-
-添加mod
-
-1.  just-enough-harvestcraft
-2.  SmoothFont
-3.  conarm
-4.  Tinkers' Addons
-5.  MmmMmmMmmMmm
-
-更新mod
-
-1.  TConstruct
+2.  名称随意，服务器地址```121.89.183.136:25565``` => 完成
